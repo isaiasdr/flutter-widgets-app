@@ -29,4 +29,11 @@ const appMenuItems = <MenuItem> [
       subTitle: 'Styled containers', 
       title: 'Cards'
     ),
+
+    MenuItem(
+      icon: Icons.refresh_rounded, 
+      link: '/progress', 
+      subTitle: 'Standard and controlled', 
+      title: 'ProgressIndicators'
+    ),
   ];
