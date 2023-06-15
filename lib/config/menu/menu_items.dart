@@ -50,4 +50,11 @@ const appMenuItems = <MenuItem> [
       subTitle: 'Stateful Widget animated', 
       title: 'Animated Container'
     ),
+
+    MenuItem(
+      icon: Icons.car_rental_outlined, 
+      link: '/ui-controls', 
+      subTitle: 'Some UI Controls', 
+      title: 'UI Controls'
+    ),
   ];
